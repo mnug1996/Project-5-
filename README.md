@@ -1,4 +1,4 @@
-# Project 5: 
+# Project 5: Data Collection, SQL, and Statistical Analysis of Taxi Services
 
 ## Introduction to the project:
 The goal for this task is to understand passenger preferences and the impact of external factors on rides for a new ride-sharing company.
